@@ -1,3 +1,4 @@
-.build
-
-EVReflection/EVReflection.xcworkspace/xcuserdata/*
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
